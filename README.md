@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mladen Dubovac
-- 👀 I’m mainly interested in Web Development, but also like desktop apps and AI
+- 👀 I’m mainly interested in Web Development, but also like other types of apps, as well as AI
 - 🌱 I’m currently learning bunch of things really...
 - 📫 Reach me by mail at: mladendubovac98@gmail.com
 
