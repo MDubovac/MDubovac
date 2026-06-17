@@ -1,86 +1,77 @@
 <div align="center">
 
-# Hey, I'm Mladen Dubovac 👋
-### Full-Stack Developer & Embedded Systems Enthusiast
+# Mladen Dubovac
 
-*Building things for the web, the cloud, and the real world.*
+**Full-Stack Developer · Systems Engineer · Embedded & Creative Tech**
 
-[![GitHub followers](https://img.shields.io/github/followers/MDubovac?label=Follow&style=social)](https://github.com/MDubovac)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=MDubovac&color=blueviolet&style=flat)
+[![GitHub](https://img.shields.io/badge/GitHub-MDubovac-181717?style=flat-square&logo=github)](https://github.com/MDubovac)
+![Profile Views](https://komarev.com/ghpvc/?username=MDubovac&color=6c63ff&style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-```text
-Location  : Serbia 🇷🇸
-Focus     : Full-Stack Web · Backend Systems · Embedded & IoT
-Currently : Building, breaking, and fixing things
-```
-
-I'm a developer who lives across multiple stacks — from crafting elegant web applications with **Laravel** and **Node.js**, to writing low-level firmware for **Arduino** and **C++** microcontrollers. I enjoy the full journey: architecture, code, deployment, and hardware.
+I'm a versatile developer working across the full technology spectrum — from building robust web applications and enterprise systems to writing embedded firmware and crafting 3D visuals. I enjoy working close to the metal as much as I enjoy high-level architecture.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🌐 Web & Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Web & Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🖥️ Systems & Enterprise
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Backend & APIs
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### ⚡ Embedded & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++_Firmware-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Systems & Enterprise
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
----
+### Desktop & Cross-Platform
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 
-## 📊 GitHub Stats
+### Embedded & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-<div align="center">
+### Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-![Mladen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDubovac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDubovac&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MDubovac&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🧠 What I Do
-
-- 🏗️ **Architect** scalable web applications from backend API to frontend UI
-- 🔌 **Bridge** the gap between software and hardware with embedded systems
-- 🐍 **Automate** workflows, data pipelines, and DevOps tasks with Python
-- ☕ **Build** enterprise-grade solutions with Java and .NET
-- 🔧 **Prototype** IoT devices and sensor integrations with Arduino & C++
+### Design & 3D
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)
 
 ---
 
-## 💬 Let's Connect
+## What I Build
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-MDubovac-181717?style=for-the-badge&logo=github)](https://github.com/MDubovac)
-
-*Open to collaboration, interesting projects, and good coffee.*
-
-</div>
+| Area | Focus |
+|---|---|
+| 🌐 Web Applications | Full-stack systems with Laravel, Node.js, React |
+| 🏢 Enterprise Software | Java/Spring and C#/.NET/ASP.NET solutions |
+| 🦀 Systems Programming | High-performance tools in Rust and C++ |
+| 🖥️ Desktop Apps | Cross-platform apps with Tauri |
+| ⚡ Embedded & IoT | Arduino firmware and hardware prototyping |
+| 🎨 3D & Visual | Blender modeling, Three.js web experiences, Inkscape design |
 
 ---
 
 <div align="center">
-  <sub>⚡ From <a href="https://github.com/MDubovac">MDubovac</a> — Serbia 🇷🇸</sub>
+  <sub>Serbia 🇷🇸 · Open to collaboration and interesting projects</sub>
 </div>
