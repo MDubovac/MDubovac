@@ -5,8 +5,6 @@
 **Full-Stack Developer · Systems Engineer · Embedded & Creative Tech**
 
 [![GitHub](https://img.shields.io/badge/GitHub-MDubovac-181717?style=flat-square&logo=github)](https://github.com/MDubovac)
-![Profile Views](https://komarev.com/ghpvc/?username=MDubovac&color=6c63ff&style=flat-square)
-
 </div>
 
 ---
