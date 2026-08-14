@@ -9,14 +9,6 @@
 
 ---
 
-## About
-
-Developer with 5+ years of experience working across the full technology spectrum — from building robust web applications and enterprise systems to writing embedded firmware and crafting 3D visuals. I enjoy working close to the metal as much as I enjoy high-level architecture.
-
-> *Programer sa 5+ godina iskustva koji radi na celom tehnološkom spektru — od izgradnje robustnih web aplikacija i enterprise sistema do pisanja embedded firmvera i kreiranja 3D vizuala. Jednako uživam u radu blizu hardvera kao i u arhitekturi visokog nivoa.*
-
----
-
 ## Tech Stack
 
 ### Web & Frontend
